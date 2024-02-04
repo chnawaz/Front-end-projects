@@ -1,2 +1,3 @@
 # buddy-programar
-this is my first Repository
+this is my first Repository.
+Aurthor- Muhammad Nawaz
